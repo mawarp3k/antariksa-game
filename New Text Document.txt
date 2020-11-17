@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<style>
+      @font-face { font-family: Corrupted File; src: url('Corrupted File.TTF'); } 
+      h1 {
+         font-family: Corrupted File
+      }
+    </style>
+
+
+
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+	<title>antariksagame</title>
+	<font color="white">
+<style>
+body {
+  background-image: url('https://i.imgur.com/piGwBVm.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+	<link href="style.css" rel="stylesheet">
+
+
+</head>
+<body>
+
+
+	<!-- Load an icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="navbar">
+  <a class="active" href="https://discord.gg/YENkyfd"><i class="fa fa-fw fa-user"></i> BERGABUNG</a>
+  <a href="https://store.steampowered.com/"><i class="fas fa-heart"></i > STEAM</a>
+  <a href="https://www.game3rb.com/"><i class="fas fa-file"></i> CRACK~ONLINE</a>
+  <a href="https://igg-games.com/"><i class="fas fa-file"></i> CRACK~OFFLINE</a>
+</div>
+
+<div class="title text-center"><h1><p style="font-family:Corrupted File">BEKAM KONTOL</p></h1></div>
+
+
+</body>
+</html>
