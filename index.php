@@ -2,5 +2,9 @@
 
 include_once("crack.html");
 
-<link rel="preload" href="Corrupted File.TTF" as="font" type="Corrupted File" crossorigin="Corrupted File">
+@font-face {font-family: "Corrupted File"; src: url('Corrupted File.TTF') ;}
+
+class{
+font-family: Corrupted File;
+}
 ?>
